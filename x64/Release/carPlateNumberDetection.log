@@ -1,0 +1,15 @@
+﻿  carPlateNumberDetection.cpp
+C:\CV\opencv310\build\include\opencv2/core/mat.hpp(1965): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\CV\opencv310\build\include\opencv2/core/persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\CV\opencv310\build\include\opencv2/core/utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+carPlateNumberDetection.cpp(79): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+carPlateNumberDetection.cpp(87): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+carPlateNumberDetection.cpp(123): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다.
+  4 of 306 functions ( 1.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  carPlateNumberDetection.vcxproj -> F:\code\CV\carPlateNumberDetection\x64\Release\carPlateNumberDetection.exe
+  carPlateNumberDetection.vcxproj -> F:\code\CV\carPlateNumberDetection\x64\Release\carPlateNumberDetection.pdb (Full PDB)
